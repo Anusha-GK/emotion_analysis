@@ -1,4 +1,4 @@
-## Video Emotion analysis 
+## Video Emotion analysis using AWS Rekognition, AWS Lambda and SNS
 
 ### start_analysis.py
 
